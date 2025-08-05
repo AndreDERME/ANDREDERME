@@ -64,4 +64,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 />
 </div>
 
-
+![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user_name=AndreDERME)
